@@ -1,0 +1,11 @@
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\bin\Debug\BookIndex.exe.config
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\bin\Debug\BookIndex.exe
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\bin\Debug\BookIndex.pdb
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.csprojAssemblyReference.cache
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.BookIndex.resources
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.Properties.Resources.resources
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.csproj.GenerateResource.cache
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.csproj.CoreCompileInputs.cache
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.exe
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.pdb
+G:\Ragib\8 semester\Quiz2_Equivalent_Assignment\BookIndex\BookIndex\obj\Debug\BookIndex.BookDetailsForm.resources
